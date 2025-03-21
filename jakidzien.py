@@ -1,0 +1,1 @@
+print("Mamy piatek 21 marca 2025r.")
